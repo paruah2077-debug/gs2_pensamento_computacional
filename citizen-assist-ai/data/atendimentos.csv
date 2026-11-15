@@ -1,1 +1,11 @@
-data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+﻿data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-15T14:26:38,pergunta,Como criar uma conta gov.br?,2,True,True,1,98.1
+2026-11-15T14:35:11,pergunta,Quero ser jovem aprendiz,5,True,True,1,150.3
+2026-11-15T14:35:49,pergunta,Como fazer um foguete dar re,,False,False,1,0.0
+2026-11-15T14:37:58,pergunta,9,,False,False,1,0.0
+2026-11-15T14:38:46,pergunta,2,,False,False,1,0.0
+2026-11-15T14:48:29,pergunta,Como consultar meu CPF?,3,True,True,1,30.8
+2026-11-15T14:51:24,pergunta,Como consultar os depósitos do FGTS?,7,True,True,1,134.8
+2026-11-15T14:52:36,pergunta,Como acessar os serviços digitais do governo?,9,True,False,1,40.9
+2026-11-15T14:53:01,pergunta,Como solicitar o seguro-desemprego?,6,True,True,1,8.7
+2026-11-15T14:54:34,pergunta,Como tirar a nova Carteira de Identidade Nacional?,4,True,True,1,23.2
